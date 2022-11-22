@@ -1,0 +1,2 @@
+# SimpleDjangoCRUD
+CRUD with Django
